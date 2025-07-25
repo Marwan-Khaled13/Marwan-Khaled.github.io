@@ -4,52 +4,38 @@ This is a responsive and multilingual personal portfolio website for **Marwan Kh
 
 ## 🔗 Live Website
 
-[Visit the Portfolio](<https://marwan-khaled.github.io/Marwan-portfolio.github.io/>)
+[https://marwan-khaled13.github.io/](https://marwan-khaled13.github.io/)
 
 ## 📁 File Structure
 
-/ ├── index.html        → English version
-├── index-ar.html     → Arabic version
-├── index-fr.html     → French version
-├── style.css         → Shared CSS styles
-└── README.md
+- `index.html` — English version  
+- `index-ar.html` — Arabic version (RTL)  
+- `index-fr.html` — French version  
+- `style.css` — Shared CSS styles  
 
 ## 🌐 Language Versions
 
-- 🇬🇧 **English**: `index.html`
-- 🇸🇦 **Arabic**: `index-ar.html` (RTL layout)
-- 🇫🇷 **French**: `index-fr.html`
+You can switch between languages using the navigation links at the top of each page:
 
-Each version has a language switcher at the top to navigate between them.
+- 🇬🇧 English: `index.html`  
+- 🇸🇦 العربية: `index-ar.html`  
+- 🇫🇷 Français: `index-fr.html`
 
 ## 💼 Projects Included
 
-- **Digital Marketing Dashboard**  
-  [LinkedIn](<https://www.linkedin.com/posts/marwan-khaled-725403301_exceldashboard-dataanalysis-salesinsights-activity-7338336102384091137-xT6T>)
+- Digital Marketing Dashboard  
+- Pizza Sales Dashboard  
+- Sales Analysis Dashboards (2 versions)  
+- HR Dashboard  
 
-- **Pizza Sales Analysis**  
-  [LinkedIn](<https://www.linkedin.com/posts/marwan-khaled-725403301_exceldashboard-dataanalysis-salesinsights-activity-7338336102384091137-xT6T>)
-
-- **Sales Insights Dashboard**  
-  [LinkedIn](<https://www.linkedin.com/posts/marwan-khaled-725403301_excel-dataanalytics-salesdashboard-activity-7341928996273614851-UO_b>)
-
-- **Advanced Sales Dashboard**  
-  [LinkedIn](<https://www.linkedin.com/posts/marwan-khaled-725403301_excel-dataanalytics-salesdashboard-activity-7342948194588258306-VNQQ>)
-
-- **Digital Wallet Analysis**  
-  [LinkedIn](<https://www.linkedin.com/posts/marwan-khaled-725403301_excel-dataanalytics-digitalwallet-activity-7351572246827540480-oFUw>)
-
-- **HR Dashboard**  
-  [LinkedIn](<https://www.linkedin.com/posts/marwan-khaled-725403301_excel-dataanalytics-hrdashboard-activity-7341831496862711808-VxUW>)
+Each project includes a direct LinkedIn link to view your work.
 
 ## 📩 Contact
 
-- 📧 Email: **MarwanKhaled1332004@gmail.com**
-- 🌐 Website: [Portfolio Website](<https://marwan-khaled.github.io/Marwan-portfolio.github.io/>)
-
-## 🚀 How to Use
-
-Open any of the HTML files in a browser or host them on GitHub Pages for public access. The `style.css` file applies a dark responsive layout to all pages.
+- 📧 Email: **MarwanKhaled1332004@gmail.com**  
+- 🌐 LinkedIn: [linkedin.com/in/marwan-khaled-725403301](https://linkedin.com/in/marwan-khaled-725403301)  
+- Upwork: [upwork.com/freelancers/~018f1ac8b9ec895a16](https://www.upwork.com/freelancers/~018f1ac8b9ec895a16)  
+- Freelancer: [freelancer.com/u/MarwanK13](https://freelancer.com/u/MarwanK13)  
 
 ---
 
